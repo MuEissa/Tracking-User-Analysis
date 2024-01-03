@@ -10,3 +10,15 @@ Statistical metrics such as the mean value can be dramatically affected by outli
 We got the data and the questions to be answered. It is time to summon the beast, Excel. All datasets were loaded into Excel, along with a set of descriptive statistics calculated for each group. 
 
 ## Conclusion? 
+ - There is a strong positive correlation between the minutes of content watched and the number of issued certificates, suggesting that students who consume more content tend to obtain more certificates, the thing that sounds intuitive. 
+ - There has been an increase in student engagement for the free-plan student from 2021 to 2022.
+ - Subscribed students watch significantly more minutes than their peers without.
+ - For the paying students, the case was counter to what has been with the free-plan students. There is a decrease in engagement in 2022 compared to 2021.
+ - While the t-statistical tests provided compelling evidence to reject the null hypothesis for the free-plan group, they fell short of establishing sufficient support to accept the alternative hypothesis for this group. Similarly, the tests did not yield adequate evidence to reject the null hypothesis for the subscribed student group. 
+
+
+
+
+
+[Summary visuals.pdf](https://github.com/MuEissa/Tracking-User-Analysis/files/13818973/Summary.visuals.pdf)
+
