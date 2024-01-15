@@ -17,4 +17,6 @@ We got the data and the questions to be answered. It is time to summon the beast
  - While the t-statistical tests provided compelling evidence to reject the null hypothesis for the free-plan group, they fell short of establishing sufficient support to accept the alternative hypothesis for this group. Similarly, the tests did not yield adequate evidence to reject the null hypothesis for the subscribed student group.
 
 ## Please refer to the attached docs for the scripts and visuals 
+![image](https://github.com/MuEissa/Tracking-User-Analysis/assets/128483502/74027df6-557c-4f18-b290-34f2578fcab7)
+
 
